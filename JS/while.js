@@ -1,0 +1,1 @@
+//while y for no son metodos especificos de array.
